@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://corners.crf.mn
+
+# Sitemaps
+Sitemap: https://corners.crf.mn/sitemap.xml
